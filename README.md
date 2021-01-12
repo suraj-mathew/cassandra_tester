@@ -1,4 +1,4 @@
-# cassandra_tester
+# cassandra_tester - test branch
 A sample project to verify the cassandra db connectivity from java program
 
  - **mvn clean install**
