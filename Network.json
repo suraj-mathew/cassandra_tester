@@ -1,0 +1,24 @@
+{	
+ "locator":"abcd.so",     
+ "classname":"NetworkControl",                    	
+ "autostart":true,	                               
+ "configuration":{	                               
+  "dnsfile":"/etc/resolv.conf",	                   
+  "timeout":5,	                                   
+  "retries":4,	                                   
+  "interfaces":[	                               
+   {	  
+    "interface":"wlan0",  
+    "mode":"Dynamic"	  
+   },	   
+   {	   
+    "interface":"eth0",	  
+    "mode":"Dynamic"	  
+   },	
+   {	
+    "interface":"eth1",	
+    "mode":"Dynamic"	
+   }
+  ]	
+ }	
+} 
