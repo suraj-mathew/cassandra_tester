@@ -12,13 +12,9 @@
     "mode":"Dynamic"	  
    },	   
    {	   
-    "interface":"eth0",	  
-    "mode":"Dynamic"	  
-   },	
-   {	
-    "interface":"eth1",	
-    "mode":"Dynamic"	
-   }
+    "interface":"sit0",	  
+    "mode":"manual"	  
+   }	
   ]	
  }	
 } 
